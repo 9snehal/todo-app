@@ -19,9 +19,9 @@ class TodoList extends Component {
         key: Date.now()
       };
 
-      this.setState((prevSatte) => {
+      this.setState((prevState) => {
         return{
-          items: prevSatte.items.concat(newItem)
+          items: prevState.items.concat(newItem)
         };
       });
     }
