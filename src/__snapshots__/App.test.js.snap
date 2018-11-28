@@ -1,0 +1,487 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly text component 1`] = `
+<div
+  className="todoListMain"
+>
+  <div
+    align="center"
+    dangerouslySetInnerHTML={
+      Object {
+        "__html": "<svg xmlns=\\"http://www.w3.org/2000/svg\\" viewBox=\\"0 0 32 32\\">
+        <circle cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(45 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.125s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(90 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.25s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(135 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.375s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(180 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.5s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(225 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.625s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(270 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.75s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(315 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.875s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+        <circle transform=\\"rotate(180 16 16)\\" cx=\\"16\\" cy=\\"3\\" r=\\"0\\">
+          <animate attributeName=\\"r\\" values=\\"0;3;0;0\\" dur=\\"1s\\" repeatCount=\\"indefinite\\" begin=\\"0.5s\\" keySplines=\\"0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8;0.2 0.2 0.4 0.8\\" calcMode=\\"spline\\" />
+        </circle>
+      </svg>
+      ",
+      }
+    }
+    style={
+      Object {
+        "fill": "blue",
+        "height": "20%",
+        "width": "20%",
+      }
+    }
+  />
+  <h2>
+    My Todo
+  </h2>
+  <br />
+  <hr />
+  <br />
+  <div
+    className="header"
+  >
+    <form
+      className="todo_submission"
+    >
+      What needs to be done?
+      <input
+        className="input-box"
+        onChange={[Function]}
+        value={undefined}
+      />
+      <button
+        onClick={[Function]}
+        type="submit"
+      >
+        Add
+      </button>
+    </form>
+  </div>
+  <ul
+    className="todoList"
+  />
+</div>
+`;
+
+exports[`should render correctly in "debug" mode 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <TodoList
+    debug={true}
+/>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": Array [
+        <Loader />,
+        <h2>
+          My Todo
+</h2>,
+        <br />,
+        <hr />,
+        <br />,
+        <div
+          className="header"
+>
+          <form
+                    className="todo_submission"
+          >
+                    What needs to be done?
+                    <input
+                              className="input-box"
+                              onChange={[Function]}
+                              value={undefined}
+                    />
+                    <button
+                              onClick={[Function]}
+                              type="submit"
+                    >
+                              Add
+                    </button>
+          </form>
+</div>,
+        <TodoItems
+          adds={[Function]}
+          delete={[Function]}
+          entries={Array []}
+/>,
+      ],
+      "className": "todoListMain",
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "function",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "My Todo",
+        },
+        "ref": null,
+        "rendered": "My Todo",
+        "type": "h2",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "br",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "hr",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {},
+        "ref": null,
+        "rendered": null,
+        "type": "br",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": <form
+            className="todo_submission"
+>
+            What needs to be done?
+            <input
+                        className="input-box"
+                        onChange={[Function]}
+                        value={undefined}
+            />
+            <button
+                        onClick={[Function]}
+                        type="submit"
+            >
+                        Add
+            </button>
+</form>,
+          "className": "header",
+        },
+        "ref": null,
+        "rendered": Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": Array [
+              "What needs to be done?",
+              <input
+                className="input-box"
+                onChange={[Function]}
+                value={undefined}
+/>,
+              <button
+                onClick={[Function]}
+                type="submit"
+>
+                Add
+</button>,
+            ],
+            "className": "todo_submission",
+          },
+          "ref": null,
+          "rendered": Array [
+            "What needs to be done?",
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "className": "input-box",
+                "onChange": [Function],
+                "value": undefined,
+              },
+              "ref": [Function],
+              "rendered": null,
+              "type": "input",
+            },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Add",
+                "onClick": [Function],
+                "type": "submit",
+              },
+              "ref": null,
+              "rendered": "Add",
+              "type": "button",
+            },
+          ],
+          "type": "form",
+        },
+        "type": "div",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "class",
+        "props": Object {
+          "adds": [Function],
+          "delete": [Function],
+          "entries": Array [],
+        },
+        "ref": null,
+        "rendered": null,
+        "type": [Function],
+      },
+    ],
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Loader />,
+          <h2>
+            My Todo
+</h2>,
+          <br />,
+          <hr />,
+          <br />,
+          <div
+            className="header"
+>
+            <form
+                        className="todo_submission"
+            >
+                        What needs to be done?
+                        <input
+                                    className="input-box"
+                                    onChange={[Function]}
+                                    value={undefined}
+                        />
+                        <button
+                                    onClick={[Function]}
+                                    type="submit"
+                        >
+                                    Add
+                        </button>
+            </form>
+</div>,
+          <TodoItems
+            adds={[Function]}
+            delete={[Function]}
+            entries={Array []}
+/>,
+        ],
+        "className": "todoListMain",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "function",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "My Todo",
+          },
+          "ref": null,
+          "rendered": "My Todo",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "br",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "hr",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {},
+          "ref": null,
+          "rendered": null,
+          "type": "br",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": <form
+              className="todo_submission"
+>
+              What needs to be done?
+              <input
+                            className="input-box"
+                            onChange={[Function]}
+                            value={undefined}
+              />
+              <button
+                            onClick={[Function]}
+                            type="submit"
+              >
+                            Add
+              </button>
+</form>,
+            "className": "header",
+          },
+          "ref": null,
+          "rendered": Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": Array [
+                "What needs to be done?",
+                <input
+                  className="input-box"
+                  onChange={[Function]}
+                  value={undefined}
+/>,
+                <button
+                  onClick={[Function]}
+                  type="submit"
+>
+                  Add
+</button>,
+              ],
+              "className": "todo_submission",
+            },
+            "ref": null,
+            "rendered": Array [
+              "What needs to be done?",
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "className": "input-box",
+                  "onChange": [Function],
+                  "value": undefined,
+                },
+                "ref": [Function],
+                "rendered": null,
+                "type": "input",
+              },
+              Object {
+                "instance": null,
+                "key": undefined,
+                "nodeType": "host",
+                "props": Object {
+                  "children": "Add",
+                  "onClick": [Function],
+                  "type": "submit",
+                },
+                "ref": null,
+                "rendered": "Add",
+                "type": "button",
+              },
+            ],
+            "type": "form",
+          },
+          "type": "div",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "class",
+          "props": Object {
+            "adds": [Function],
+            "delete": [Function],
+            "entries": Array [],
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
