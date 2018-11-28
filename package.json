@@ -6,7 +6,8 @@
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "watchman": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -17,6 +18,9 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "gh-pages": "^2.0.1",
+    "jest": "^23.6.0"
   }
 }
