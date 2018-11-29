@@ -1,5 +1,6 @@
 
 
+https://akshataw.github.io/todo-app/
 
 
 ## My Todo-App :
@@ -8,15 +9,15 @@
 
 ### All Badges
 
-[![Lighthouse Accessibility Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_accessibility.svg)](https://github.com/emazzotta/lighthouse-badges)
+[![Lighthouse Performance Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_performance.svg)](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#performance)
 
-[![Lighthouse Best Practices Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_best-practices.svg)](https://github.com/emazzotta/lighthouse-badges)
+[![Lighthouse Progressive Web App Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_accessibility.svg)](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#pwa)
 
-[![Lighthouse Performance Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_performance.svg)](https://github.com/emazzotta/lighthouse-badges)
+[![Lighthouse Accessibility Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_accessibility.svg)](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#accessibility)
 
-[![Lighthouse PWA Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_pwa.svg)](https://github.com/emazzotta/lighthouse-badges)
+[![Lighthouse Best Practices Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_best-practices.svg)](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#best-practices)
 
-[![Lighthouse SEO Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_seo.svg)](https://github.com/emazzotta/lighthouse-badges)
+[![Lighthouse SEO Badge](https://rawgit.com/emazzotta/lighthouse-badges/master/assets/img/scores/lighthouse_seo.svg)](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#seo)
 
 
 ## Create React App
