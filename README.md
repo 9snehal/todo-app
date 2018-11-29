@@ -3,7 +3,15 @@
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
+![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_performance.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_performance.svg)
+
+![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_pwa.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_pwa.svg)
+
 ![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_accessibilty.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_accessibilty.svg)
+
+![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_best_practices.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_best_practices.svg)
+
+![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_seo.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_seo.svg)
 
 ## Create React App
 
