@@ -2,7 +2,7 @@
 
 My Todo-App :
 
-[![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
+[![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.png?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
 <img src="https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
 " height="25">
