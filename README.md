@@ -4,6 +4,8 @@ My Todo-App :
 
 [![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
+!https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg!:https://circleci.com/gh/sweetlimeco/todolist
+
 ## Create React App
 
 To create a react app, we need to run following commands:
