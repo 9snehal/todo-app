@@ -6,6 +6,7 @@ My Todo-App :
 
 [![CircleCI markdown](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
+[![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example)
 
 ![circleci](!https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg!:https://circleci.com/gh/sweetlimeco/todolist)
 
