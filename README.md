@@ -8,7 +8,7 @@
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example)
 
-![CircleCI](https://img.shields.io/gitlab/pipeline/:user/:repo.svg)
+![CircleCI](https://img.shields.io/gitlab/pipeline/:sweetlimeco/:todolist.svg)
 
 ## Create React App
 
