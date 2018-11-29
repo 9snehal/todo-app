@@ -1,18 +1,12 @@
 
 
-[![CircleCI passed](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)]()
+
 
 My Todo-App :
 
-[![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
+[![CircleCI](.. image:: https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
+    :target: https://circleci.com/gh/sweetlimeco/todolist)](https://circleci.com/gh/sweetlimeco/todolist)
 
-<img src="https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
-" height="25">
-
-https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
-
-.. image:: https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
-    :target: https://circleci.com/gh/sweetlimeco/todolist
 
 ## Create React App
 
