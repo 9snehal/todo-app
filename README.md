@@ -3,6 +3,8 @@
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
+![[LighthouseScore](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_accessibilty.svg)](https://github.com/akshataw/todo-app/blob/master/assets/badges/lighthouse_accessibilty.svg)
+
 ## Create React App
 
 To create a react app, we need to run following commands:
