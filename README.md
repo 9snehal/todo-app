@@ -4,8 +4,10 @@
 
 My Todo-App :
 
-[![CircleCI](.. image:: https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
-    :target: https://circleci.com/gh/sweetlimeco/todolist)](https://circleci.com/gh/sweetlimeco/todolist)
+[![CircleCI markdown](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
+
+
+![circleci](!https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg!:https://circleci.com/gh/sweetlimeco/todolist)
 
 
 ## Create React App
