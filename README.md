@@ -7,6 +7,8 @@ My Todo-App :
 <img src="https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
 " height="25">
 
+https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
+
 .. image:: https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
     :target: https://circleci.com/gh/sweetlimeco/todolist
 
