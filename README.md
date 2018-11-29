@@ -3,16 +3,6 @@
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
-[![Lighthouse Performance Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_performance.svg)](https://github.com/emazzotta/lighthouse-badges)
-
-[![Lighthouse PWA Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_pwa.svg)](https://github.com/emazzotta/lighthouse-badges)
-
-[![Lighthouse Accessibility Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_accessibility.svg)](https://github.com/emazzotta/lighthouse-badges)
-
-[![Lighthouse Best Practices Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_best-practices.svg)](https://github.com/emazzotta/lighthouse-badges)
-
-[![Lighthouse SEO Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_seo.svg)](https://github.com/emazzotta/lighthouse-badges)
-
 ## Create React App
 
 To create a react app, we need to run following commands:
