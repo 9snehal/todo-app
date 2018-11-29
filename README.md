@@ -7,6 +7,9 @@ My Todo-App :
 <img src="https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
 " height="25">
 
+.. image:: https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg
+    :target: https://circleci.com/gh/sweetlimeco/todolist
+
 ## Create React App
 
 To create a react app, we need to run following commands:
