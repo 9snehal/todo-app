@@ -6,6 +6,10 @@
 
 [![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
+[![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example)
+
+![CircleCI](https://img.shields.io/gitlab/pipeline/:user/:repo.svg)
+
 ## Create React App
 
 To create a react app, we need to run following commands:
