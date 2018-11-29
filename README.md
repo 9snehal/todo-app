@@ -4,11 +4,8 @@
 
 ## My Todo-App :
 
-[![CircleCI](https://circleci.com/gh/sweetlimeco/todolist.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
-
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
-[![CircleCI](https://circleci.com/gh/sweetlimeco/todolist/tree/master.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist/tree/master)
 
 ## Create React App
 
