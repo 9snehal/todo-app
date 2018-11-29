@@ -1,30 +1,23 @@
 
-
-https://akshataw.github.io/todo-app/
-
-
 ## My Todo-App :
 
 [![CircleCI](https://circleci.com/gh/spirosikmd/jest-cucumber-puppeteer-example.svg?style=svg)](https://circleci.com/gh/sweetlimeco/todolist)
 
-### All Badges
+[![Lighthouse Performance Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_performance.svg)](https://github.com/emazzotta/lighthouse-badges)
 
-[![Lighthouse Performance Badge]()](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#performance)
+[![Lighthouse PWA Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_pwa.svg)](https://github.com/emazzotta/lighthouse-badges)
 
-[![Lighthouse Progressive Web App Badge]()](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#pwa)
+[![Lighthouse Accessibility Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_accessibility.svg)](https://github.com/emazzotta/lighthouse-badges)
 
-[![Lighthouse Accessibility Badge]()](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#accessibility)
+[![Lighthouse Best Practices Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_best-practices.svg)](https://github.com/emazzotta/lighthouse-badges)
 
-[![Lighthouse Best Practices Badge]()](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#best-practices)
-
-[![Lighthouse SEO Badge]()](file:///home/akshata/akshataw.github.io_2018-11-22_11-29-21.report.html#seo)
-
+[![Lighthouse SEO Badge](https://github.com/akshataw/lighthouse-badges/master/assets/badges/lighthouse_seo.svg)](https://github.com/emazzotta/lighthouse-badges)
 
 ## Create React App
 
 To create a react app, we need to run following commands:
    npx create-react-app my-app
- 
+
  it will create a react app of name my-app.
  then run..
    cd my-app
