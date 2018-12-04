@@ -1,5 +1,6 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "test-utils";
+import { findDOMNode } from "react-dom";
 import "./index.css";
 import TodoList from "./TodoList";
 import registerServiceWorker from './registerServiceWorker';
