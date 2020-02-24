@@ -1,0 +1,96 @@
+<html>
+<head>
+  <style>
+
+  input:invalid {
+  border: 2px dashed red;
+}
+
+input:valid {
+  border: 2px solid black;
+}
+
+  </style>
+</head>
+<body>
+<form>
+  <label for="frmNameA">User Name</label>
+  <input type="text" id="username" name="username"
+pattern="[a-zA-z]{5,}" placeholder="username" maxlength="30"
+required autofocus/>
+<br />
+<br />
+  <label for="frmNameA">Full Names</label>
+<input type="text" id= "name-text" placeholder="first and last name" required
+  pattern="(.*)\s(.*)" class="form-control"><br/>
+<br />
+<br />
+<label for="frmNameA">Name</label>
+<input type="text" name="name" id="frmNameA"
+  placeholder="Full name" required autocomplete="name">
+<br />
+<br />
+<label for="frmEmailA">Email</label>
+<input type="email" name="email" id="frmEmailA"
+  placeholder="name@example.com" required autocomplete="email">
+<br />
+<br />
+<label for="frmEmailC">Confirm Email</label>
+<input type="email" name="emailC" id="frmEmailC"
+  placeholder="name@example.com" required autocomplete="email">
+<br />
+<br />
+<label for="frmPhoneNumA">Phone</label>
+<input type="tel" name="phone" id="frmPhoneNumA" pattern="[7-9]{1}[0-9]{9}"
+  placeholder="+1-555-555-1212" required autocomplete="tel">
+<br />
+<br />
+<label for="number">age:</label>
+<input type="number" id="number" name="amount" value="18" min="18" max="40" >
+<br />
+<br />
+
+<label for="url">URL</label>
+<input type="url" name="name" id="frmNameA" placeholder="url" required>
+<br />
+<br />
+
+<label>Zipcode:</label>
+<input type="text" required pattern="^\d{5,6}(?:[-\s]\d{4})?$" ...>
+<br />
+<br />
+
+<input type="range" id="move-range"  min="0" max="120"  step="10" value="30">
+<span id="move-value">30</span>
+<br />
+<br />
+
+<h2 class="h3">Available Date</h2>
+<input type="date" class="form-control" value="2016-06"/>
+</br>
+<input type="month" class="form-control" value="2016-06"/>
+</br>
+<input type="week" class="form-control" value="2016-w26"/>
+</br>
+<input type="datetime-local" class="form-control" value="2016-06-26T09:30:00"/>
+<br />
+<br />
+
+<h3>color code</h3>
+<input type="color" id="main-color" values="#ffffff" class="form-control push-down-top">
+<br />
+<br />
+
+<input type="text" id="direction-list" list="direction-data" placeholder="directional preference" class="form-control">
+<datalist id="direction-data">
+<option value="North"></option>
+<option value="South"></option>
+<option value="East"></option>
+<option value="West"></option>
+</datalist>
+<br />
+<br />
+<input type="submit" value="submit" >
+</form>
+</body>
+</html>
